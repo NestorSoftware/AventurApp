@@ -1,0 +1,56 @@
+# ── Compilados Java ──────────────────────────────────────────────────────────
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# ── Directorios de build ──────────────────────────────────────────────────────
+target/
+out/
+bin/
+build/
+
+# ── Guardado de partida (dato de usuario, no código) ──────────────────────────
+GuardarPartida.txt
+
+# ── IntelliJ IDEA ─────────────────────────────────────────────────────────────
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── Eclipse ───────────────────────────────────────────────────────────────────
+.classpath
+.project
+.settings/
+
+# ── NetBeans ──────────────────────────────────────────────────────────────────
+nbproject/
+nbbuild/
+nbdist/
+nb-configuration.xml
+
+# ── Maven ─────────────────────────────────────────────────────────────────────
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Windows ───────────────────────────────────────────────────────────────────
+Thumbs.db
+Desktop.ini
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
