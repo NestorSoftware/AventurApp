@@ -4,12 +4,6 @@ Juego de aventura de texto con interfaz gráfica JavaFX. Explora una isla 5×5, 
 
 ---
 
-## Capturas
-
-> *(Añade screenshots aquí una vez ejecutes el proyecto)*
-
----
-
 ## Tecnologías
 
 - Java 17+
